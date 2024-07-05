@@ -32,7 +32,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[1
 export const APP_NAME = 'I Shall Master This Family';
 export const NavbarName = "I Shall Master This Family";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. Seong Jin-Woo, is driven by a relentless ambition to rise to the pinnacle of a formidable family hierarchy. Armed with cunning intelligence and a strategic mind, Seong Jin-Woo navigates a treacherous world of alliances and betrayals, forging unexpected bonds while facing formidable adversaries. `;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. Seong Jin-Woo, is driven by a relentless ambition to rise to the pinnacle of a formidable family hierarchy. Armed with cunning intelligence and a strategic mind, Seong Jin-Woo navigates a treacherous world of alliances and betrayals, forging unexpected bonds while facing formidable adversaries. `;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
